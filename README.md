@@ -13,6 +13,14 @@ yarn install
 ```
 
 
+## Update Index
+
+The search feature needs a pre-built index from given database. Build it with this command
+
+```shell
+yarn build-index
+```
+
 ## Running locally
 
 ```shell
