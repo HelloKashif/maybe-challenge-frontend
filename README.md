@@ -1,3 +1,7 @@
+# Explainer Video:
+https://youtu.be/cwlJbvn2G0Q
+
+
 # Maybe Full Stack Code Challenge
 
 Details: https://company.maybe.co/b32696ab48f44761aa138dcfead7f099
